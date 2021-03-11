@@ -1,0 +1,26 @@
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\bin\Debug\Clockulator.exe.config
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\bin\Debug\Clockulator.exe
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\bin\Debug\Clockulator.pdb
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\bin\Debug\Clockulator.xml
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.vbprojResolveAssemblyReference.cache
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.Form1.resources
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.Resources.resources
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.vbproj.GenerateResource.Cache
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.exe
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.xml
+c:\users\hsrt1\documents\visual studio 2015\Projects\Clockulator\Clockulator\obj\Debug\Clockulator.pdb
+D:\Clockulator\Clockulator\bin\Debug\Clockulator.exe.config
+D:\Clockulator\Clockulator\obj\Debug\Clockulator.exe
+D:\Clockulator\Clockulator\obj\Debug\Clockulator.xml
+D:\Clockulator\Clockulator\obj\Debug\Clockulator.pdb
+F:\Clockulator\Clockulator\bin\Debug\Clockulator.exe.config
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.exe
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.xml
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.pdb
+F:\Clockulator\Clockulator\bin\Debug\Clockulator.exe
+F:\Clockulator\Clockulator\bin\Debug\Clockulator.pdb
+F:\Clockulator\Clockulator\bin\Debug\Clockulator.xml
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.vbprojResolveAssemblyReference.cache
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.Form1.resources
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.Resources.resources
+F:\Clockulator\Clockulator\obj\Debug\Clockulator.vbproj.GenerateResource.Cache
